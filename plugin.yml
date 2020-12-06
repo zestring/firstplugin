@@ -1,0 +1,10 @@
+name: FirstProgram
+main: fp.main.FirstProgramMain
+version: 0.1
+commands:
+   fpime:
+      description: FirstCommand
+      usage: /fptime [second]
+   fp:
+      description: FirstCommand
+      usage: /fp [second]

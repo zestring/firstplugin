@@ -1,0 +1,12 @@
+message:
+  commands:
+    dont_have_permission: 'Нет прав'
+    not_float: 'ошибка'
+    player_isnt_online: 'игрок не на сервере'
+    speed_end: 'теперь равна'
+    flyspeed_start: 'скорость полёта игрока'
+    ip: 'ip игрока'
+    ip_end: '&6: &a'
+  events:
+    spawnpoint: ''
+    coordinates: ''
